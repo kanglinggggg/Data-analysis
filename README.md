@@ -2,8 +2,6 @@
 
 I built this project to practice **data cleaning, exploratory analysis, and visualization** using a real-world dataset.  
 
----
-
 ## Dataset
 
 - File: `netflix_titles.csv`
@@ -16,8 +14,6 @@ I built this project to practice **data cleaning, exploratory analysis, and visu
   - `listed_in` (genres)
 
 Missing values are handled by filling them with `"Unknown"` or `"Not Available"` to keep the analysis consistent.
-
----
 
 ## What I Analyzed
 
@@ -38,8 +34,6 @@ Missing values are handled by filling them with `"Unknown"` or `"Not Available"`
 
 All visualizations are combined into one overview image for presentation purposes.
 
----
-
 ## Visualization
 
 ![Netflix Overview](netflix_overview.jpg)
@@ -48,16 +42,12 @@ All visualizations are combined into one overview image for presentation purpose
 - Consistent color palette
 - Values shown directly on charts for readability
 
----
-
 ## Tools Used
 
 - Python 3
 - pandas
 - matplotlib
 - seaborn
-
----
 
 ## How to Run
 
