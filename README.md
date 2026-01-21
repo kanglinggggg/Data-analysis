@@ -1,9 +1,6 @@
 # Netflix Data Analysis
 
 I built this project to practice **data cleaning, exploratory analysis, and visualization** using a real-world dataset.  
-Instead of focusing on complex models, the goal is to clearly present insights from data in a way that is easy to understand and visually clean.
-
-This project is part of my data analysis portfolio.
 
 ---
 
@@ -67,4 +64,5 @@ All visualizations are combined into one overview image for presentation purpose
 Install required libraries:
 
 ```bash
+
 pip install pandas matplotlib seaborn
